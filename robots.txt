@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://geminolcbe.com/sitemap.xml
+Sitemap: https://geminolcbe.in/sitemap.xml
